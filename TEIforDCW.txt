@@ -1,0 +1,207 @@
+ * Letter, John Shrady in Knoxville, Tenn., 1863 December 25	0012_000068_000200_0000
+ * Letter, John Shrady in Clinton, Tenn. 1864 March 27	0012_000068_000201_0000
+ * Letter, John Shrady in Clinton, Tenn. 1864 March 30	0012_000068_000202_0000
+ * Letter, John Shrady in Asylum U.S.A. General Hospital, Knoxville, Tenn. 1864 July 11	0012_000068_000203_0000
+ * Letter, John Shrady in Knoxville, Tenn. 1864 July 16	0012_000068_000204_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn. 1864 July 20	0012_000068_000205_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn., 1864 July 22	0012_000068_000206_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn., 1864 July 28	0012_000068_000207_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn., 1864 July 31	0012_000068_000208_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn., 1864 September 4	0012_000068_000209_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn., 1864 September 11	0012_000068_000210_0000
+ * Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn., 1864 September 28	0012_000068_000211_0000
+ * Letter, John Shrady in Knoxville, Tenn. 1864 October 8	0012_000068_000212_0000
+ 	
+ * Letter, Campbell Wallace in Knoxville, TN, to the Directors of the East Tennessee & Georgia Railroad, 1863 July 15 -- 	0012_000069_000200_0000 
+ 	
+ * Letter, M.S. Temple in Greeneville, Tenn., to O.P. Temple in Knoxville, Tenn. 1864 April 14	0012_000070_000200_0000
+ * Letter, Smith, G.E.in Greeneville, Tenn., to O.P. Temple in Knoxville, Tenn. 1864 June 15	0012_000070_000201_0000
+ * Letter, McGaughey, Samuel in Greeneville, Tenn., to S.P. Carte, Provost Marshal General in Knoxville, Tenn. 1864 June 24	0012_000070_000202_0000
+ * Letter, Welcker, A.G. in Cleveland, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 June 17	0012_000070_000203_0000
+ * Letter, Fletcher, A.J. in Evansville, Ind., to O.P. Temple in Knoxville, Tenn. 1864 June 18	0012_000070_000204_0000
+ * Letter, Rogers, S.A. in Loudon, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 June 20	0012_000070_000205_0000
+ * Letter, Doak, Sam'l in Knoxville, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 July 05	0012_000070_000206_0000
+ * Letter, Gregory, F.H. in Sweetwater, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 August 08	0012_000070_000207_0000
+ * Letter, Thornburgh, J.M. in Huntsville, Ala. to O.P. Temple in Knoxville, Tenn. 1864 August 10	0012_000070_000208_0000
+ * Letter, Small, J.K. in New York City, N.Y. to O.P. Temple in Knoxville, Tenn. 1864 August 22	0012_000070_000209_0000
+ * Letter, Temple, M.S. in Place Unknown to O.P. Temple in Knoxville, Tenn. 1864 August 31	0012_000070_000210_0000
+ * Letter, Brownlow, John B. in Bulls Gap, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 September 07	0012_000070_000211_0000
+ * Letter, Brownlow, John B. in Bulls Gap, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 September 09	0012_000070_000212_0000
+ * Letter, Brownlow, John B. in Bulls Gap, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 September 18	0012_000070_000213_0000
+ * Letter, Watkins, A.G. in Military Prison to O.P. Temple and Baxter in Knoxville, Tenn. 1864 October 22	0012_000070_000214_0000
+ * Letter, Thos. Sanderson in Maryville, Tenn. to O.P. Temple in Knoxville, Tenn. 1864 November 8	0012_000070_000215_0000
+ * Letter, Hugh Bogle in Ellejoy, Tenn. to O.P. Temple in Knoxville, Tenn. 1865 January 21	0012_000070_000216_0000
+ * Letter, Mary L.T. Wallace in Maryville, Tenn. to O.P. Temple in Knoxville, Tenn. 1865 January 23	0012_000070_000217_0000
+ * Letter, W.A. Walker in Maryville, Tenn. to O.P. Temple in Knoxville, Tenn. 1865 January 24	0012_000070_000218_0000
+ * Letter, Jesse Glaze in Greencastle, Ia. to O.P. Temple in Knoxville, Tenn. 1865 January 26	0012_000070_000219_0000
+ * Letter, M.C. Butler in Poland, Ohio to O.P. Temple in Knoxville, Tenn. 1865 February 04	0012_000070_000220_0000
+ * Letter, Butler, M.C. in Poland, Ohio to O.P. Temple in Knoxville, Tenn. 1865 February 27	0012_000070_000221_0000
+ * Letter, Richardson, D. in Washington, D.C. to O.P. Temple in Knoxville, Tenn. 1865 March 03	0012_000070_000222_0000
+ * Letter, Hickman, James M. in Monroe Co., Tenn. to O.P. Temple in Knoxville, Tenn. 1865 April 24	0012_000070_000223_0000
+ * Letter, Headrick, W.L. in Greeneville, Tenn. to O.P. Temple in Knoxville, Tenn. 1865 May 17	0012_000070_000224_0000
+ * Letter, Headrick, W.L. in Greeneville, Tenn. to O.P. Temple in Knoxville, Tenn. 1865 May 22	0012_000070_000225_0000
+ * Letter, Burnett, Wm. M. in Sevierville, Tenn. to O.P. Temple in Knoxville, Tenn. 1865 June 10	0012_000070_000227_0000
+ * Letter, Huffins, B. in Loudon, Tenn. to S. A. Rogers in Knoxville, Tenn. 1865 June 20	0012_000070_000228_0000
+ * Letter, Wilson & Burns in Baltimore, Md., to O.P. Temple in Knoxville, Tenn., 1861 February 16	0012_000070_000229_0000
+ * Letter, McEwen, R.H. in Nashville, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 February 22	0012_000070_000230_0000
+ * Letter, Humes, W.Y.C. in Memphis, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 March 21	0012_000070_000231_0000
+ * Letter, Glass, E.A. in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 June 16	0012_000070_000232_0000
+ * Letter, Hodsden, R.H. in Nashville, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 October 23	0012_000070_000233_0000
+ * Letter, Garner, T. Sampford in Tallapoosa, Ga. to Temple & Rogers in Knoxville, Tenn., 1861 November 23	0012_000070_000234_0000
+ * Letter, Eames, C.A. in Millwood, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 December 12	0012_000070_000235_0000
+ * Letter, Scruggs, William L. in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 January 11	0012_000070_000236_0000
+ * Letter, Smith, H.C. in Midway, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 February 9	0012_000070_000237_0000
+ * Letter, Lucky, S.I.W. in Newport, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 March 3	0012_000070_000238_0000
+ * Letter, Wallace, Jesse G. in Maryville, Tenn. to O. P. Temple in Knoxville, Tenn. 1862 April 26	0012_000070_000239_0000
+ * Letter, Carter, J. V. in Knoxville, Tenn. to Customs House Officers, Cincinnati, Ohio.1863 October 7	0012_000070_000240_0000
+ * Letter, Burnside, Ambrose E. in Knoxville, Tenn. to E.M. Stanton, Secretary of War, Washington D.C.1863 October 08	0012_000070_000241_0000
+ * Letter, Horace Maynard in Washington, D.C. , to O.P. Temple in Knoxville, Tenn. 1861 January 29	0012_000070_000412_0000
+ 	
+ * Letter, Henry Cherry in Somerset, Kentucky to Amos Gould in Owosso, Michigan 1864 March 4	0012_000071_000200_0000
+ * Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Michigan 1864 June 10	0012_000071_000201_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1864 July 11	0012_000071_000202_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1865 March 27	0012_000071_000203_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1865 April 11	0012_000071_000204_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1865 April 21	0012_000071_000205_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1865 May 2	0012_000071_000206_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1865 June 24	0012_000071_000207_0000
+ * Letter, Henry Cherry in Knoxville, Tenn., to Amos Gould in Owosso, Michigan, 1865 November 1	0012_000071_000208_0000
+ 	
+ * Letter, Milford Clark Butler in Knoxville, Tenn. to his sister "America" in Oregon, 1861 May 14 -- 	0012_000072_000200_0000 
+ 	
+ * Letter, David A. Moulton in Knoxville, Tenn. to his mother Miriam S. Moulton in Hampton, New Hampshire, 1864 February 19	0012_000073_000200_0000
+ 	
+ * Letter, John Watkins in Knoxville, Tenn., to John Probert in Pittsfield, Ohio, 1863 September 25	0012_000074_000200_0000
+ * Letter, John Watkins in Knoxville, Tenn., to John Probert in Pittsfield, Ohio, 1863 November 1	0012_000074_000201_0000
+ * Letter, John Watkins in Knoxville, Tenn., to John Probert in Pittsfield, Ohio, 1863 December 15	0012_000074_000202_0000
+ * Letter, John Watkins in Knoxville, Tenn., to John Probert in Pittsfield, Ohio, 1864 January 12	0012_000074_000203_0000
+ * Letter, John Watkins in Mossy Creek, Tenn., to John Probert in Pittsfield, Ohio, 1864 March 23	0012_000074_000204_0000
+ * Letter, John Watkins in Knoxville, Tenn., to John Probert in Pittsfield, Ohio, 1864 April 24	0012_000074_000205_0000
+ * Letter, John Watkins in Camp Dixie, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 August 28	0012_000074_000206_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 September 18	0012_000074_000207_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 October 6	0012_000074_000208_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 October 11	0012_000074_000209_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 November 2	0012_000074_000210_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 November 8	0012_000074_000211_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 December 15	0012_000074_000212_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 December 22	0012_000074_000213_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1863 December 27	0012_000074_000214_0000
+ * Letter, John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, 1864 January 3	0012_000074_000215_0000
+ 	
+ * Letter, William A. Huddard in Knoxville, Tenn., to his father in Ohio, 1863 December 13	0012_000075_000200_0000
+ * Letter, William A. Huddard near Knoxville, Tenn., to his father in Ohio, 1863 December 20	0012_000075_000201_0000
+ * Letter, William A. Huddard in Knoxville, Tenn., to his father in Ohio, 1864 April 8	0012_000075_000202_0000
+ 	
+ * Letter, William M. Cloer in Cumberland Gap, Tenn. to his friends in Morristown, Tenn., 1863 June 24	0012_000076_000200_0000
+ 	
+ * Letter, Robert Neville in Knoxville, Tenn. to his wife, Mary, 1863 September 17	0012_000077_000200_0000
+ 	
+ * Letter, John McNickle Laird in Knoxville, Tenn., to Mrs. Julia Laird in New Bloomfield, Penn., 1863 December 8	0012_000078_000200_0000
+ 	
+ * Letter, Joseph Linn King in Knoxville, Tenn., to John Bracklesby in Hartford, CT, 1865 September 30	0012_000079_000200_0000
+ 	
+ * Letter, W. Gibbs McAdoo in Knoxville, Tenn. to W.S. Patton in Kingston, Tenn., 1860 November 8	0012_000080_000200_0000
+ 	
+ * Letter, Jacob Rowland in Knoxville, Tenn., to Olive M. Rowland in Willoughby, Ohio, 1865 January 26	0012_000081_000200_0000
+ 	
+ * Letter, Edward Lynn in Blains Cross Roads, Tenn. to his sister, 1863 December 25	0012_000082_000200_0000
+ 	
+ * Letter, Howard Hopkins in LaGrange, Tenn. to Abbie Watson in Clyde, Wayne County, N.Y., 1864 January 17	0012_000083_000200_0000
+ 	
+ * Letter, D. C. McCallum in Nashville, Tenn., to J. L. Donaldson, 1864 February 9	0012_000084_000200_0000
+ * Letter, D. C. McCallum in Nashville, Tenn., to J. L. Donaldson, 1864 February 9	0012_000084_000201_0000
+ * Letter, J. L. Donaldson in Nashville, Tenn., to Robert Allen in Louisville, Ky., 1864 February 9	0012_000084_000202_0000
+ * Letter, J. L. Donaldson in Nashville, Tenn., to Thomas Swords in Cincinnati, Ohio, 1864 February 9	0012_000084_000203_0000
+ * Letter, R. Rds. in Nashville, Tenn., to P. L. Fox, 1864 October 4	0012_000084_000205_0000
+ * Letter, P. S. Lincoln in Cincinnati, Ohio, to W. J. Stevens in Nashville, Tenn., 1865 May 13	0012_000084_000206_0000
+ * Letter, W. J. Stevens in Nashville, Tenn., to P. S. Lincoln in Cincinnati, Ohio, 1865 May 20	0012_000084_000207_0000
+ * Letter, Zalmon S. Main in Memphis, Tenn., to P. S. Lincoln in Cincinnati, Ohio, 1862 August 7	0012_000084_000208_0000
+ 	
+ * Letter, William J. Helsley in Chattanooga, Tenn., to Mary Helsley in Southington, Ohio, 1864 July 23	0012_000087_000200_0000
+ * Letter, William J. Helsley in Chattanooga, Tenn., to Mary Helsley in Southington, Ohio, 1864 September 7	0012_000087_000201_0000
+ 	
+ * Letter, James J. Vauln in LaGrange, Tenn. to Ulysses S. Grant in Memphis, Tenn., 1862 June 23	0012_000088_000200_0000
+ 	
+ * Letter, William R. Story in Greeneville, Tenn. to John J. King, 1865 August 16	0012_000089_000200_0000
+ 	
+ * Letter, Jones, David L. in Nashville, Tenn. to Anna Jones in Alleghany City, Pa. 1865 March 13	0012_000091_000200_0000
+ * Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Alleghany City, Pa. 1865 March 18	0012_000091_000201_0000
+ * Letter, David L. Jones in Nashville, Tenn. to David's sons in Allegheny City, Pa. 1865 March 25	0012_000091_000202_0000
+ * Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa. 1865 April 04	0012_000091_000203_0000
+ * Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa. 1865 April 05	0012_000091_000204_0000
+ * Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn. 1865 April 17	0012_000091_000205_0000
+ * Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa. 1865 April 23	0012_000091_000206_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Boys in Alleghany City, Pa.1865 April 26	0012_000091_000207_0000
+ * Letter, Anna Jones in Allegheny City, Pa. to David Jones in Nashville, Tenn. 1865 April 26	0012_000091_000208_0000
+ * Letter, Anna Jones in Allegheny City, Pa. to David Jones in Nashville, Tenn. 1865 May 01	0012_000091_000209_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones in Allegheny City, Pa. 1865 May 06	0012_000091_000210_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 May 07	0012_000091_000211_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 May 13	0012_000091_000212_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Andrew Jones in Allegheny City, Pa.1865 May 16	0012_000091_000213_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 May 16	0012_000091_000214_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones in Allegheny City, Pa.1865 May 19	0012_000091_000215_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. 1865 May 22	0012_000091_000216_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. 1865 May 25	0012_000091_000217_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. 1865 May 27	0012_000091_000218_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. 1865 May 23	0012_000091_000219_0000
+ * Letter, David L. Jones in Nashville, Tenn. to Anna Jones, Allegheny City, Pa. 1865 June 3	0012_000091_000220_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 June 7	0012_000091_000221_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 June 20	0012_000091_000222_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones in Allegheny City, Pa.1865 June 30	0012_000091_000223_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones in Allegheny City, Pa.1865 July 17	0012_000091_000224_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 July 22	0012_000091_000225_0000
+ * Letter, Anna Jones in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.1865 July 24	0012_000091_000226_0000
+ * Letter, David L. Jones in Nashville, Tenn., to Anna Jones in Allegheny City, Pa1865 July 31	0012_000091_000227_0000
+ 	
+ * Letter, Southgate Cregmile in Camp Chase, Ohio, to Crittenden Cregmile, 1862 March 19	0012_000092_000200_0000
+ * Letter, Southgate Cregmile in Nashville, Tenn., to Mother, 1862 July 14	0012_000092_000201_0000
+ * Letter, Southgate Cregmile in Nashville, Tenn., to Mother, 1862 September 16	0012_000092_000202_0000
+ * Letter, Southgate Cregmile in Nashville, Tenn., to Crittenden Cregmile, 1862 December 01	0012_000092_000203_0000
+ * Letter, Southgate Cregmile in Nashville, Tenn., to Mother, 1862 December 08	0012_000092_000204_0000
+ * Letter, Southgate Cregmile in Chattanooga, Tenn., to Crittenden Cregmile, 1863 February 14	0012_000092_000205_0000
+ * Letter, Southgate Cregmile in Murfreesboro, Tenn., to Crittenden Cregmile, 1863 February 23	0012_000092_000206_0000
+ * Letter, Southgate Cregmile in Murfreesboro, Tenn., to Mother, 1863 March 28	0012_000092_000207_0000
+ * Letter, Southgate Cregmile in Murfreesboro, Tenn., to Crittenden Cregmile, 1863 April 14	0012_000092_000208_0000
+ * Letter, Southgate Cregmile in Murfreesboro, Tenn., to Crittenden Cregmile, 1863 April 26	0012_000092_000209_0000
+ * Letter, Southgate Cregmile in Murfreesboro, Tenn., to Mother, 1863 May 3	0012_000092_000210_0000
+ * Letter, Southgate Cregmile in Murfreesboro, Tenn., to Crittenden Cregmile, 1863 June 5	0012_000092_000211_0000
+ * Letter, Southgate Cregmile in Decher Station, Tenn., to Crittenden Cregmile, 1863 July 16	0012_000092_000212_0000
+ * Letter, Southgate Cregmile in Stevenson, Ala, to Crittenden Cregmile, 1863 September 5	0012_000092_000213_0000
+ * Letter, Southgate Cregmile in Chattanooga, Tenn., to Crittenden Cregmile, 1864 January 7	0012_000092_000214_0000
+ * Letter, Southgate Cregmile in Chattanooga, Tenn., to Crittenden Cregmile, 1864 January 17	0012_000092_000215_0000
+ * Letter, Southgate Cregmile in Atlanta, Ga., to William, 1864 August 2	0012_000092_000216_0000
+ * Letter, Southgate Cregmile in Chattanooga, Tenn., to Crittenden Cregmile, 1863 November 1	0012_000092_000217_0000
+ * Letter, Mangum Cregmile in Stilwells Corner, to Southgate Cregmile1865 April 26	0012_000092_000218_0000
+ * Letter, John Cregmile in Stilwells Corner, Ohio, to Crittenden Cregmile, 1865 April 13	0012_000092_000220_0000
+ 	
+ * Letter, Nathan Crawford in Columbia, Tenn., to Rachel Crawford in Kansasville, Wis. 1862 May 26	0012_000119_000200_0000
+ 	
+ * Letter, Milton Weaver in Butler, Ohio to Charles C. Dodson in Butler, Ohio, William Hoffman in Butler, Ohio, and John McCarter in Butler, Ohio 1864 February 17	0012_000167_000200_0000
+ 	
+ * Letter, Colonel John T. Lockman in Marietta, Ga, to Edward Dewitt in New York, N.Y. 1864 June 22	0012_000169_000200_0000
+ 	
+ * Letter, William T. Presley in Chattannooga, Tenn., to H.A. Presley in Prattville, Ala.1862 September 20	0012_000171_000200_0000
+ * Letter, William T. Presley in Camp near Middleton, Tenn., to Henrie, Prattville, Ala. 1863 April 07	0012_000171_000201_0000
+ 	
+ * Letter, Albert Woodcock in Franklin, Tenn., to Leute, 1863 May 06	0012_000172_000200_0000
+ 	
+ * Letter, Allen J. Clifton in Knoxville, Tenn., to his mother1864 Feb. 20	0012_000182_000200_0000
+ 	
+ * Letter, Amos Guthrie in Knoxville, Tenn., to his father in New Rumley Township, Ohio1864 Mar. 19	0012_000186_000200_0000
+ 	
+ * Letter, Amos Guthrie in Knoxville, Tenn. to his father in New Rumley Township, Ohio 1864 Mar. 30	0012_000187_000200_0000
+ 	
+ * Letter, Watson B. Smith in Marysville, Tenn., to his father1863 Nov. 05 	0012_000192_000200_0000
+ * General Order, Watson B. Smith in Marysville, Tenn.,1863 Nov. 06 	0012_000192_000201_0000
+ * Letter, Watson B. Smith in Knoxville, Tenn., to his father1863 Nov. 16 	0012_000192_000203_0000
+ * Letter, Watson B. Smith in Blaine X Roads, to his father1863 Dec. 20 	0012_000192_000204_0000
+ * Letter, Watson B. Smith in Blains Cross Roads, to his father1863 Dec. 21 	0012_000192_000205_0000
+
+ * Letter, Henry B. Wetzell in Strawberry Plains, E. Tenn., to Aaron Wetzell in Slifer, Pa., 1863 Jan. 17	0012_001180_000200_0000	Should be in DCW		
+ * Letter, Henry B. Wetzell in Easton Pa., to Aaron Wetzell in Slifer, Pa., 1866 Sept. 25	0012_001180_000201_0000			
+ 				
+ * Letter, Gustavus A. Peltzer in Knoxville, Tenn., to Ellis Birch in Chattanooga, Tenn.1863 July 02	0012_001266_000200_0000	Should be in DCW		
+ 				
+ * Letter, Samuel Andrew Baker in South Carrollton, Ky., to Joseph Warren Baker in Whitley County, Ind. 1862 January 28	0012_001280_000200_0000	Should be in DCW		
+ * Letter, Samuel Andrew Baker in McMinnville, Tenn., to William Young Wells in Whitley County, Ind. 1863 July 26	0012_001280_000201_0000			
+
